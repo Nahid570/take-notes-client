@@ -16,7 +16,7 @@ const Public = () => {
           From Execution Context
         </address>
         <br />
-        <p>Owner: JavaScript</p>
+        <p>Owner: Nahid Faraji</p>
       </main>
       <footer>
         <Link to="/login">Employee Login</Link>
