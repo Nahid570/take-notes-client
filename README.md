@@ -2,8 +2,8 @@
 
 <br>
 <div align="center">
-  <a href="">
-        <img src="https://i.ibb.co/ZG0pyDh/Screenshot-2023-08-09-151908.png" width="200">
+  <a href="https://fastidious-caramel-754135.netlify.app/">
+        <img src="https://i.ibb.co/ZG0pyDh/Screenshot-2023-08-09-151908.png" width="600" height="400">
   </a>
   <br />
   <h1>Take-Notes</h1>
